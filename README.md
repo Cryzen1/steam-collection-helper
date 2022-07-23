@@ -1,6 +1,6 @@
 ## Installation
 
-1. Download newest release file from: https://github.com/Cryzen1/steam-collection-helper/releases/latest/download/source-code.zip
+1. Download newest release file from: https://github.com/Cryzen1/steam-collection-helper/archive/refs/heads/master.zip
 
 2. Enable "Developer mode" in extensions tab
 
