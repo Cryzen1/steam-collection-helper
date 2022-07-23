@@ -1,0 +1,16 @@
+{
+    "name": "Steam Collection Helper",
+    "description": "Extension which helps with creating collection with millions of mods.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://steamcommunity.com/sharedfiles/managecollection/*"
+            ],
+            "js": [
+                "script.js"
+            ]
+        }
+    ]
+}
